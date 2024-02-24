@@ -1,0 +1,7 @@
+model\Analista.class
+model\AuxiliarLimpeza.class
+model\Pessoa.class
+model\Funcionario.class
+model\Gerente.class
+br\edu\fesa\aula1\BasicJava1.class
+model\Desenvolvedor.class
